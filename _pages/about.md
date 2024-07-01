@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a fourth-year Physics student at Carnegie Mellon University. My research interests lie in astrophysics, specifically in the theoretical and computational study of cosmological simulations, as well as stellar and galactic dynamics. I have conducted research under Professor [Rupert Croft](https://www.cmu.edu/physics/people/faculty/croft.html), and I am currently advised by Professor [Hy Trac](https://www.cmu.edu/physics/people/faculty/trac.html).
+Hello! I'm a fourth-year Physics student at Carnegie Mellon University. My research interests lie in astrophysics, specifically in the study of cosmological simulations, as well as stellar and galactic dynamics. I have conducted research under Professor [Rupert Croft](https://www.cmu.edu/physics/people/faculty/croft.html), and I am currently advised by Professor [Hy Trac](https://www.cmu.edu/physics/people/faculty/trac.html).
 
 I was born in San Jose, California, but mostly grew up in Alpharetta, Georgia. My parents are from India.
 
