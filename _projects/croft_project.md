@@ -2,7 +2,7 @@
 layout: page
 title: Mapping of the Cosmic Web Using Artificial Intelligence
 description: advised by Professor Rupert Croft and worked alongside Jason Weng
-img:
+img: /assets/img/croft_project_pic.png
 redirect: https://drive.google.com/file/d/1QC-KUvelWVQq1ABonq3_jhd1MoT-dNqk/view?usp=sharing
 importance: 1
 category: work
