@@ -14,6 +14,8 @@ category: work
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/masters_thesis_figures/positive_orbit_demo.png" title="positive orbit demo" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/masters_thesis_figures/less_negative_orbit_demo.png" title="negative orbit demo 1" class="img-fluid rounded z-depth-1" %}
     </div>
